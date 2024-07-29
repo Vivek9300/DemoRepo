@@ -1,0 +1,163 @@
+body {
+    background-image: url(shadow.jpg);
+    background-size: 100%;
+    margin: 0%;
+}
+
+.menu-bar {
+    display: flex;
+    color: white;
+    /* height: 60px; */
+    align-items: center;
+    margin-top: 20px;
+}
+
+.box1 {
+    margin-left: 100px;
+    color: orangered;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.box2 {
+    list-style: none;
+    display: flex;
+    margin-left: 200px;
+    width: 90%;
+    justify-content: space-between;
+    font-size:20px;
+}
+
+.box3 {
+    margin-left: 300px;
+    /* border: 3px solid black; */
+    /* height: 80px; */
+    /* width: 100px; */
+    display: flex;
+}
+
+#search {
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid orangered;
+    background-color: rgb(17, 17, 42);
+    width: 200px;
+    font-size: 15px;
+    border: none;
+    /* padding: 5px; */
+    padding-left: 13px;
+    color: white;
+}
+
+#search-button {
+    height: 44px;
+    background-color: orangered;
+    width: 100px;
+    border-top-right-radius: 5px ;
+    border-bottom-right-radius: 5px;
+    border: 1px solid orangered;
+    /* font-size: xx-large; */
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+
+.container2 {
+    display: flex;
+    margin-top: 150px;
+}
+
+.container2-box1 {
+    margin-left: 100px;
+}
+
+
+
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
+
+h1 {
+   font-size: 50px;
+   color: white;
+}
+
+p {
+    color: white;
+}
+
+.join {
+    height: 35px;
+    width: 120px;
+    background-color: orangered;
+    color: black;
+    border-radius: 5px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    /* box-shadow:inset; */
+    font-weight: bold;
+    border: none;
+}
+
+.container2-box2 {
+    height:400px ;
+    width: 290px;
+    border: 2px solid black;
+    margin-left: 600px;
+    padding-left: 33px;
+    padding-top: 25px;
+    border-radius: 5px;
+    background-color: rgb(17, 17, 42);
+    align-items: center;
+    opacity: 2;
+}
+
+
+.Loginhere {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    color: orangered;
+    font-weight: bold;
+    border: none;
+    font-size: 18px;
+}
+
+.Ent-email {
+    width: 250px;
+    height: 40px;
+    /* border-radius: 10px; */
+    background-color: rgb(17, 17, 42);
+    /* font-weight: bold; */
+    border: none;
+    border-bottom: 2px solid orangered;
+    color: white;
+
+}
+
+.Login {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: orangered;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+
+.detail {
+   text-align: center;
+}
+
+.logo {
+    color: white;
+    margin-top: 20px;
+    justify-content: space-evenly;
+    display: flex;
+}
+a {
+    color: white;
+}

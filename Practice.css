@@ -1,0 +1,73 @@
+/* .box1{
+
+    font-size: 20px;
+}
+#b1{color: red;
+}
+#b2{
+color: blue;
+}
+#b3{
+color: yellow;
+} */
+
+/* .box{
+    border: 2px solid black;
+    height: ;
+} */
+
+.main
+{
+    height:800px;
+    /* background-color:lightgray; */
+}
+
+
+
+
+.Details
+{
+  border: 5px;
+  margin-left: 550px;
+  margin-right: 500px;
+  background-color: white;
+  height:70%;
+  width: 27%;
+
+  border-radius: 10px;
+  border:1px solid gray;
+  
+
+}
+
+/* .subdet
+{
+    margin-left: 20px;
+} */
+
+button
+{
+    background-color:  #dee653;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    width: 90%;
+    height: 30px;
+    font-weight: bolder;
+    
+}
+
+input
+{
+    /* background-color: aqua; */
+    width: 90%;
+    border-radius: 5px;
+    height:25px;
+    border:1px solid gray;
+}
+#pass2{
+
+    margin-left: 170px;
+    color: blue;
+}
+
